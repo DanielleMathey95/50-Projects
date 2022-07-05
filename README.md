@@ -4,3 +4,7 @@
 -   [Course Info Website](https://50projects50days.com)
 
 I took this course in order to keep my existing skills of HTML, CSS and JS sharp!
+
+|  #  | Project                                                                                                                     | Live Demo                                                                         |
+| :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| 01  | [Expanding Cards](https://github.com/DanielleMathey95/50-Projects/tree/main/expanding-cards)                             | [Live Demo]()               |
