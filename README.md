@@ -7,4 +7,4 @@ I took this course in order to keep my existing skills of HTML, CSS and JS sharp
 
 |  #  | Project                                                                                                                     | Live Demo                                                                         |
 | :-: | --------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
-| 01  | [Expanding Cards](https://github.com/DanielleMathey95/50-Projects/tree/main/Expanding-Cards/expanding-cards)                             | [Live Demo]()               |
+| 01  | [Expanding Cards](https://github.com/DanielleMathey95/50-Projects/tree/main/Expanding Cards/expanding-cards)                             | [Live Demo]()               |
