@@ -25,7 +25,7 @@ body {
   transform: rotate(-20deg);
 }
 
-.container.show-nav + nav li{
+.container.show-nav + nav li {
   transform: translateX(0);
   transition-delay: 0.3s;
 }
@@ -57,6 +57,9 @@ body {
   color: #fff;
 }
 
+.container.show-nav .circle {
+  transform: rotate(-70deg);
+}
 .circle button:focus {
   outline: none;
 }
@@ -88,7 +91,7 @@ nav ul li {
   color: #fff;
   margin: 40px 0;
   transform: translateX(-200%);
-  transition: transform 0.4s ease-in
+  transition: transform 0.4s ease-in;
 }
 
 nav ul li i {
